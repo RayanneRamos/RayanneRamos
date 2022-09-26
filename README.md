@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Rayanne Ramos
 
-<p align="center">Tenho 25 anos, moro no Rio de Janeiro - RJ, sou bacharel em Ciência da Computação, sou desenvolvedora front-end e
+<p align="left">Tenho 25 anos, moro no Rio de Janeiro - RJ, sou bacharel em Ciência da Computação, sou desenvolvedora front-end e
   no momento busco minha primeira oportunidade no mercado.
 </p>
 
