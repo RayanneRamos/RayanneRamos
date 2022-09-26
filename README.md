@@ -7,9 +7,6 @@
 <div>
   <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=RayanneRamos&theme=dracula&show_icons=true" alt="Rayanne Ramo's GitHub stats"><img>
   <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=RayanneRamos&theme=dracula" alt="Rayanne Ramo's Stats" ><img>
-  <!--
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayanneRamos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneRamos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnolgias e Ferramentas
