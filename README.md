@@ -28,7 +28,6 @@
     <img align="center" alt="RayanneRamos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="RayanneRamos-Git" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192318154-a8c6df35-e6a6-46e6-abe6-9f244646e540.png">
     <img align="center" alt="RayanneRamos-Postgress" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192315814-f61d3db9-b48a-437b-b80a-d86e358e9d94.png">
-    <img align="center" alt="RayanneRamos-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192315859-2d1e3270-8a1a-419f-abec-88b88b119bbe.png">
     <img align="center" alt="RayanneRamos-MongoDB" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192315869-c0fa9a20-8e83-4c8d-8c8a-369f1f5e2a14.png">
   </p>
 </div>
