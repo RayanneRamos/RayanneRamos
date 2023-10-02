@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09125d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7286D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rayanne+Ramos;I'm+25+years+old;I'm+from+Brazil;I+Graduated+computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09125d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rayanne+Ramos;I'm+26+years+old;I'm+from+Brazil;I+Graduated+computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RayanneRamos&bg_color=0d1117&color=7286D3&line=7286D3&point=301E67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayanneRamos&bg_color=09125d&color=e7f3ff&line=2c55ff&point=d4e7ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RayanneRamos&show_icons=true&count_private=true&hide_border=true&title_color=7286D3&icon_color=7286D3&text_color=c9d1d9&bg_color=0d1117" alt="Rayanne Ramos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneRamos&layout=compact&hide_border=true&title_color=7286D3&text_color=7286D3&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RayanneRamos&show_icons=true&count_private=true&hide_border=true&title_color=d4e7ff&icon_color=d4e7ff&text_color=c9d1d9&bg_color=09125d" alt="Rayanne Ramos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneRamos&layout=compact&hide_border=true&title_color=d4e7ff&text_color=d4e7ff&bg_color=09125d" />
 </div>
 
 <div align="center"> 
@@ -16,21 +16,20 @@
  </div>
   
 ### Main skills:
-![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
-![Styled-Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117)&nbsp;  
+![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=09125d)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=09125d)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=09125d)&nbsp;
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=09125d)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=09125d)&nbsp;
+![Styled-Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=09125d)&nbsp;  
   
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
-  
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=09125d)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=09125d&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=09125d&textColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=09125d)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09125d&height=120&section=footer"/>
   
   
 <!--
@@ -68,11 +67,12 @@
 </div>
 
 ## Social Media
+
 <div>
   <a href="https://www.instagram.com/rayanne_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rayanneramos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href = "mailto:rayanneramosoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rayanne-ramos-97abb0181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rayanne-ramos-97abb0181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <!--
   ![Snake animation](https://github.com/RayanneRamos/RayanneRamos/blob/output/github-contribution-grid-snake.svg)
