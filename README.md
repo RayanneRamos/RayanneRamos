@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=header"/>
 
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+I'm a Rayanne Ramos, i'm a frontend developer, i'm from Brazil and i have a degree in computer science.
+
+<!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7286D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rayanne+Ramos;I'm+26+years+old;I'm+from+Brazil;I+Graduated+computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayanneRamos&bg_color=0d1117&color=ffffff&line=7286d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RayanneRamos&show_icons=true&count_private=true&hide_border=true&title_color=7286D3&icon_color=7286D3&text_color=c9d1d9&bg_color=0d1117" alt="Rayanne Ramos github stats" /> 
@@ -30,6 +36,9 @@
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=footer"/>
+
+### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/rayanne-ramos-97abb0181/)
   
   
 <!--
